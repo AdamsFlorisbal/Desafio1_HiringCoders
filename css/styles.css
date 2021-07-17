@@ -12,13 +12,14 @@ html {
 .box {
     display: flex;
     flex-direction: row;
+    height: 160px;
   }
 .elemento {
     width: 160px;
     height: 160px;
     background-color: rgb(56, 34, 34);
     padding: 1px;
-    border: 3px solid rgb(70, 57, 57);
+   
 }
 .elemento2 {
     width: 100%;
